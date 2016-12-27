@@ -4,6 +4,8 @@ An adapter (not a plugin) for [Hubot](https://github.com/github/hubot) to work v
 
 Useful for headless chat.
 
+> inspiration: https://github.com/wichon/hubot-json-rest
+
 ## Setup
 
 Set environment variable:
